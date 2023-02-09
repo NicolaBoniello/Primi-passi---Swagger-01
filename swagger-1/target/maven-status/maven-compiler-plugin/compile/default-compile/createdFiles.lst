@@ -1,0 +1,4 @@
+co\develhope\swagger\controllers\NameController.class
+co\develhope\swagger\SwaggerApplication.class
+co\develhope\swagger\controllers\DefaultController.class
+co\develhope\swagger\configurations\SpringFoxConfig.class
